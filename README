@@ -1,3 +1,11 @@
-Dirty extract from the project. Hope to make it to a real plugin soon!
+Dirty extract from the project.
 
--- Dmitry (ratnikov@gmail.com)
+Original locations of the stuff:
+lib -> from app/helpers/form_builder
+test/unit -> from test/unit/form_builder
+views/form_builder -> from app/views/form_builder
+
+
+Feel free to email me about questions/concerns.
+
+Dmitry (ratnikov@gmail.com)
